@@ -27,3 +27,7 @@ tokens aren;t original, because Facebook's tokens have a lot of 0s in them.
 Why not just remove that data instead of mangling it? Well, removed data
 will do nothing to them, mangled data might just screw up an algorithm of
 theirs or two.
+
+Also, the scipt leaves the old files as `*.jpg~` and `*.jpeg~` files.
+Remove the tilde if anything goes wrong and get your old file back. Or
+delete all those files after parsing is successful.

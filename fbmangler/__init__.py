@@ -6,7 +6,7 @@ from iptcinfo3 import IPTCInfo
 from pathlib import Path
 from typing import Optional
 
-EXTENSIONS = [".jpg"]
+EXTENSIONS = [".jpg", ".jpeg"]
 
 
 # Scan the file in path for Facebook tracking
