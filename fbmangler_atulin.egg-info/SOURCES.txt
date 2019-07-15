@@ -1,0 +1,7 @@
+README.md
+setup.py
+fbmangler/__init__.py
+fbmangler_atulin.egg-info/PKG-INFO
+fbmangler_atulin.egg-info/SOURCES.txt
+fbmangler_atulin.egg-info/dependency_links.txt
+fbmangler_atulin.egg-info/top_level.txt

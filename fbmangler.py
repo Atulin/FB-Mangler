@@ -1,0 +1,3 @@
+import fbmangler
+
+fbmangler.main()
